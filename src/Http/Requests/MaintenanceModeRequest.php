@@ -16,7 +16,7 @@ class MaintenanceModeRequest extends FormRequest
     public function rules()
     {
         return [
-            'message'               => 'required|min:2',
+
         ];
     }
 
