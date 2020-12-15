@@ -4,7 +4,7 @@ Please do not use this package for your website, I just created this package to 
 
 1. Require the package using composer
     ~~~php
-    composer require imranali/verify-email
+    composer require grimreapper/laravel-site-maintenance
     ~~~
 2. Publish the configuration
     ~~~php
