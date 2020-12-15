@@ -8,5 +8,5 @@ Please do not use this package for your website, I just created this package to 
     ~~~
 2. Publish the configuration
     ~~~php
-    php artisan vendor:publish --provider="GrimReapper\LaravelSiteMaintenance\LaravelSiteMaintenanceServiceProvider --tag=public --force"
+    php artisan vendor:publish --provider="GrimReapper\LaravelSiteMaintenance\LaravelSiteMaintenanceServiceProvider"
     ~~~
